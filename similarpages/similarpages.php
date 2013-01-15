@@ -10,7 +10,6 @@
 /**
  * Similar Pages for Cotonti CMF
  *
- * @version 2.0.0
  * @author esclkm, http://www.littledev.ru
  * @copyright (c) 2008-2011 esclkm, http://www.littledev.ru
  */
